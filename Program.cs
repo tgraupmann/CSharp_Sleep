@@ -10,7 +10,7 @@ namespace CSharp_Sleep
             Console.WriteLine("Check CPU Usage");
             while (true)
             {
-                Thread.Sleep(0);
+                Thread.Sleep(1000);
             }
         }
     }
